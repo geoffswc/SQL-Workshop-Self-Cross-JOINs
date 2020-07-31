@@ -26,7 +26,7 @@ This notebook contains code illustrating the difference between an INNER JOIN an
 
 This notebook uses SQL snd COVID-19 data from the CDC to analyze COVID cases at the statewide level. Self-JOINs and CROSS JOIN techniques are illustrated by finding states with similar COVID case counts. 
 
-## Cumulative-ER-Arrivals.ipynb
+### Cumulative-ER-Arrivals.ipynb
 
 This notebook provides an example of using a self-JOIN to calculate the cumulative sum of arrivals to an ER, as well as a python/pandas method to accomplish the same thing. This notebook also contains techniques to create sample databases through code. 
 
