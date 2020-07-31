@@ -1,4 +1,4 @@
-# SQL-Workshop-Inner-Cross-JOINs
+# SQL-Workshop-Self-Cross-JOINs
 
 ## Short Description
 
