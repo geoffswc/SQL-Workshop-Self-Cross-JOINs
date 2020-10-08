@@ -34,8 +34,11 @@ This notebook provides an example of using a self-JOIN to calculate the cumulati
 
 This notebook demonstrates the use of a left outer self join. Example query covers how to include columns in an aggregation query that are not part of a GROUP. The bare column problem and how implementation can differ between databases. 
 
-
 ### ER-Visits-Changes.ipynb
 
 More advanced use of self-JOIN and aggregations to analyze data at a granular level, based on a log of the date of arrival of each patient to the ER. 
+
+### Find-Duplicates.ipynb
+
+Finding duplicate rows in a table
 
